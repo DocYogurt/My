@@ -1,0 +1,6 @@
+[
+  ["your_first_client_fingerprint_here", false],
+  ["another_client_fingerprint", false],
+  ["yet_another_fingerprint", true],
+  ["this_one_is_also_whitelisted", false]
+]
